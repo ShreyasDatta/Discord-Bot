@@ -1,3 +1,3 @@
 # Discord-Bot
 
-Moderation and music bot
+Moderation and music bot.
